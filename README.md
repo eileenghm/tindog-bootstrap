@@ -1,4 +1,3 @@
-TinDog
 TinDog is a responsive website designed to help dog owners connect with other dog owners and find new friends for their furry companions. The website offers a user-friendly interface and a variety of features to make the process of connecting with other dog lovers easy and enjoyable.
 
 Table of Contents
